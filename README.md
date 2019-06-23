@@ -1,5 +1,5 @@
-# Docker Container - STI
+# Docker Container - S2I
 
-## What is STI
+## What is S2I
 
 A tool for building/building artifacts from source and injecting into docker images
